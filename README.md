@@ -1,6 +1,6 @@
 # Learn Jenkins
 
-### success criteria:
+### Success criteria:
 
 - [x] Able to configure job pipeline with parameters
 - [x] Able to do multiple stages and steps in job
